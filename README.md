@@ -24,6 +24,7 @@ How to run Python verison (linux):
 
 
 How to run C++ verison (linux):
+	
 	1.) open command line and cd into directory folder of where this code is
 	
 	2.) type in "g++ *.cpp" to compile c++ files
