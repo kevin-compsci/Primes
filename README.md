@@ -22,3 +22,10 @@ How to run Python verison (linux):
 	2.) type in "python Primes.py #" where # is some value that the program will output primes up to
 	
 
+
+How to run C++ verison (linux):
+	1.) open command line and cd into directory folder of where this code is
+	
+	2.) type in "g++ *.cpp" to compile c++ files
+	
+	3.) type in "a.out" to run out file
