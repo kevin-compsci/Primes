@@ -17,7 +17,6 @@ using namespace std;
 //Global Declarations
 vector<int> primeList;
 
-
 //function definitions
 void getAllPrimes(int, int[], int);
 void printVector();
