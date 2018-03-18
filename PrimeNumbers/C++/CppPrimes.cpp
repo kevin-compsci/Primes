@@ -1,5 +1,5 @@
 //Kevin Nguyen
-//Basic C++ (Cpp) program that outputs primes up to a given number.
+//Basic C++ (Cpp) program that outputs primes up to a given number. The algorithm is O(n^k) due to operations on n numbers and testing each of those values on k subvalues.
 
 /*
 How to run (linux):
