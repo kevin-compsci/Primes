@@ -8,7 +8,6 @@ How to run (linux):
 	3.) type in "a.out" to run out file with results being displayed on screen
 */
 
-
 //TODO: CREATE DYNAMIC ARRAY, array will hold a growing size of integers (primes). Need create, clean (free up memeory), and insert functions at the minimum.
 //NOTE: Performance could be closer to O(n^2), polynomial time (depending on implementation).
 
