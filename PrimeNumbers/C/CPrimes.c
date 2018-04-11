@@ -29,5 +29,5 @@ int main() {
 //Functions implementations goes below
 //getPrimes function will get the prime numbers up to a given number
 void getPrimes(int target) {
-	//TODO: impelement this function
+	//TODO: implement this function for primes
 }
