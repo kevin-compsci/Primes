@@ -15,11 +15,10 @@ How to run (linux):
 //include statements
 #include <stdio.h>
 
-
 //struct definitions
 
-
 //function definitions
+void getPrimes(int);
 
 //main driver
 int main() {
@@ -28,3 +27,7 @@ int main() {
 }
 
 //Functions implementations goes below
+//getPrimes function will get the prime numbers up to a given number
+void getPrimes(int target) {
+	
+}
