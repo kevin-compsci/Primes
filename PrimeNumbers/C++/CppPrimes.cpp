@@ -1,5 +1,5 @@
 //Kevin Nguyen
-//Basic C++ (Cpp) program that outputs primes up to a given number.
+//Basic C++ (Cpp) program that outputs primes up to a given number. Performance is O(n*k).
 
 /*
 How to run (linux):
@@ -24,7 +24,7 @@ void printVector();
 //main driver
 int main(int argc, char** argv) {
 	//local declarations
-	int listOfTestVal[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+	int listOfTestVal[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}; //<--- values to test against
 	int targetValue = 100; //<--- target value
 
 	//call functions to collect prime numbers and then print them out
