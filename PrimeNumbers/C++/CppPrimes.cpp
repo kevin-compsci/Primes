@@ -1,5 +1,5 @@
 //Kevin Nguyen
-//Basic C++ (Cpp) program that outputs primes up to a given number. Performance is O(n*k).
+//Basic C++ (Cpp) program that outputs primes up to a given number. Performance is O(M*N) where M is of size 1 - 10 and N is the input size. 
 
 /*
 How to run (linux):
