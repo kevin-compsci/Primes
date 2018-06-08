@@ -1,6 +1,6 @@
 #
 #Kevin Nguyen
-#A small naive program to output primes up to a specific value
+#A small naive program to output primes up to a specific value. Performance is atleast O(M*N) where M is a constant from 1 - 10 and N is the input size.
 #
 #How to run (linux):
 #	1.) open command line and cd into directory folder of where this code is
