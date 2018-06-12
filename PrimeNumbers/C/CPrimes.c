@@ -1,5 +1,5 @@
 //Kevin Nguyen
-//Basic C (C files) program that outputs values up to a target value. The output values are prime numbers.
+//Basic C (C files) program that outputs values up to a target value. The output values will be prime numbers.
 
 /*
 How to run (linux):
