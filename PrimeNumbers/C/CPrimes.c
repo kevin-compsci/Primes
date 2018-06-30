@@ -9,7 +9,7 @@ How to run (linux):
 */
 
 //TODO: CREATE DYNAMIC ARRAY, array will hold a growing size of integers (primes). Need create, clean (free up memeory), and insert functions at the minimum.
-//NOTE: Performance could be closer to O(m*n), polynomial time (depending on implementation). Exponential time possible for more naive approaches.
+//NOTE: Performance could be close to O(m*n), polynomial time (depending on implementation). Exponential time possible for more naive approaches.
 
 //include statements
 #include <stdio.h>
