@@ -4,7 +4,6 @@ Prime Numbers
 Simple and naive programs that outputs primes numbers or determines if a number is prime. Completed back in 2013 revised in 2018 for more documentation and functionality. Performance is closest to O(N*M) where M is of size 10.
 
 
-
 How to run Java version (linux):
 
 	1.) open command line and cd into directory folder of where this code is
