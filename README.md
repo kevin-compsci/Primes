@@ -1,7 +1,7 @@
 # Primes
 Prime Numbers
 
-Simple and naive programs that outputs primes numbers or determines if a number is prime. Completed back in 2013 revised in 2018 for more documentation and functionality. Performance is closest to O(N*M) where M is of size 10.
+Simple and naive programs that outputs primes numbers or determines if a number is prime. Completed back in 2013 revised in 2018 for more documentation and functionality. Performance is closest to O(N*M) where M is of size 10. This algorithm does not include Sieves version.
 
 
 How to run Java version (linux):
